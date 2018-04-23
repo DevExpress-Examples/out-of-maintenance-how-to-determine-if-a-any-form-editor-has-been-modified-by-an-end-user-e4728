@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.vb" Inherits="TrackChanges.MvcApplication" Language="vb" %>
